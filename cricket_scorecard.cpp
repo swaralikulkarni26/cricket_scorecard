@@ -121,7 +121,7 @@ int main()
                     }
                 }
             }
-            //printing scorecard after each over
+            //printing scorecard after each over - swarali
             cout << "Scorecard for Team " << team << endl;
             cout << "Player Name\tScore\t4s\t6s\tBalls" << endl;
             for (int playerNumber = 0; playerNumber < numberOfPlayers; playerNumber++)
